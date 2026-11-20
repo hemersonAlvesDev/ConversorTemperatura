@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\senai_diversos\\AulaCsharp2\\ConversorTemperatura\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj",
+      "projectUniqueName": "C:\\senai_diversos\\AulaCshar02\\ConversorTemperatura\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj",
       "projectName": "ConversorTemperatura.App",
-      "projectPath": "C:\\senai_diversos\\AulaCsharp2\\ConversorTemperatura\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj",
+      "projectPath": "C:\\senai_diversos\\AulaCshar02\\ConversorTemperatura\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj",
       "packagesPath": "C:\\Users\\wcc_devs\\.nuget\\packages\\",
-      "outputPath": "C:\\senai_diversos\\AulaCsharp2\\ConversorTemperatura\\ConversorTemperatura.App\\obj\\",
+      "outputPath": "C:\\senai_diversos\\AulaCshar02\\ConversorTemperatura\\ConversorTemperatura.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

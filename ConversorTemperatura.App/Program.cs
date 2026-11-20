@@ -1,6 +1,6 @@
-﻿
+﻿using ConversorTemperatura.App;
 
-var conversor = new ConversorTemperatura();
+var conversor = new ConversorTemperaturaClass();
 
 Console.Write("Temperatura em Celsius: ");
 
